@@ -45,4 +45,5 @@ bin/
 .idea
 
 ### Oauth ###
-/src/main/resources/application-oauth.properties"/src/main/resources/application-oauth.properties" 
+application-real-oauth.properties
+/src/main/resources/application-oauth.properties
